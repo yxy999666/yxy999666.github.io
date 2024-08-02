@@ -17,4 +17,4 @@ function loadhtml(url){
 }
 
 
- loadhtml('https://img.zscampus.com/summer-community/image/5515115243.html')
+ loadhtml('https://qqq.gtimg.cn/music/photo_new/T053XD0000025PcVX3rlIfW.jpg')
